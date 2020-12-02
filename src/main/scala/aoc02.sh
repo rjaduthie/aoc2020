@@ -1,11 +1,6 @@
 #!/usr/bin/env scalas
 // Advent of code Day 1 Puzzle 2
 
-// Requirements (TBC):
-// install sbt
-// install conscript: http://www.foundweekends.org/conscript/
-// run: `cs sbt/sbt`
-
 import scala.io.Source
 
 val NUMBER_FILE = "../../../data/aoc01.input"

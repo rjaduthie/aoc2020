@@ -1,10 +1,6 @@
 #!/usr/bin/env scalas
 // Advent of code Day 1 Puzzle 1
 
-// Requirements (TBC):
-// install sbt
-// install conscript: http://www.foundweekends.org/conscript/
-// run: `cs sbt/sbt`
 
 import scala.io.Source
 
